@@ -15,8 +15,8 @@
 ### 데이터
 -kaggle에서 제공해주는 데이터를 사용했다. 사용한 데이터는 구글 플레이 스토어 앱 관련 데이터이다.
 <https://www.kaggle.com/lava18/google-play-store-apps><br>
--처음에는 api를 사용하여 데이터를 다루려고 했지만 pip3가 되지 않아 데이터를 다운 받고 서버를 옮긴 뒤에 LOCAL DATA LOCAL INFILE 를 사용하여 csv파일의 데이터를 mariaDB로 옮겼다. 
-<br>-테이블구조 
+-처음에는 api를 사용하여 데이터를 다루려고 했지만 pip3가 되지 않아 데이터를 다운 받고 서버를 옮긴 뒤에 LOCAL DATA LOCAL INFILE 를 사용하여 csv파일의 데이터를 mariaDB로 옮겼다. <br>
+테이블구조<br>
 ![테이블_구조](https://user-images.githubusercontent.com/46561481/97857552-44d7b880-1d41-11eb-8ecc-bd028724e8d4.png)
 
 ### 분석한 내용
